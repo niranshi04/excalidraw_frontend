@@ -1,1 +1,1 @@
-hello world
+EXPOSE 5000 5004
